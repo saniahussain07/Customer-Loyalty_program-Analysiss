@@ -1,4 +1,4 @@
-# Customer-Loyalty_program-Analysis
+
 # Customer Loyalty Program Analysis 📊
 ## Overview
 Business Intelligence Dashboard analyzing 84,437 rows of Customer Loyalty Program data using Microsoft Excel.
